@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.nav-container {
+  width: 90px;
+  display: flex;
+  justify-content: space-around;
+}
